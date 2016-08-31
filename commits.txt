@@ -1,3 +1,9 @@
+commit e67627a72e5beb48439f7488edcfc646f95da4bc
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Wed Aug 31 14:37:51 2016 -0400
+
+    Arreglado nav
+
 commit b15b47730291a64e3e5abbce68172ce3849fb75b
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Wed Aug 31 14:22:01 2016 -0400
