@@ -1,3 +1,9 @@
+commit f7016a1e2dcc0183e02a0cb133024aafadcbf5fe
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Tue Sep 13 21:40:37 2016 -0400
+
+    Eliminada meta tag generator
+
 commit 9eaba680ad3d5324906f5bdd3e5f62cf49c85eb7
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Sep 9 15:17:28 2016 -0400
