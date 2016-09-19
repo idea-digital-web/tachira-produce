@@ -1,3 +1,9 @@
+commit bbd3b4ab11c63dc5bc8a10ff3c37ca3bb78cd63c
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Sep 19 11:07:54 2016 -0400
+
+    Cambiado logo-footer
+
 commit d7203a959a53df9ef76b33efde387fdd53d9e487
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Sep 19 11:00:42 2016 -0400
