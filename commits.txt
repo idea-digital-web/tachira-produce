@@ -1,3 +1,9 @@
+commit cea3d4145651975a7066740a0c56c250fa015caf
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Sep 19 11:55:07 2016 -0400
+
+    Cambiado favicon
+
 commit bbd3b4ab11c63dc5bc8a10ff3c37ca3bb78cd63c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Sep 19 11:07:54 2016 -0400
