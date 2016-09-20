@@ -1,3 +1,9 @@
+commit e6b0150b66614abc8231c2d48a6a0762fad7aa4f
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Tue Sep 20 10:47:13 2016 -0400
+
+    Eliminado logos de tarjetas
+
 commit 7b6b613c8f23246f33f9591c9e967f2809a94cfa
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Tue Sep 20 10:44:11 2016 -0400
