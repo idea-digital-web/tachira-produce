@@ -1,3 +1,9 @@
+commit 909381fe73295879387c3fe4424cee416968cba6
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Sep 19 12:08:45 2016 -0400
+
+    Cambiado favicon browserconfig manifest
+
 commit cea3d4145651975a7066740a0c56c250fa015caf
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Sep 19 11:55:07 2016 -0400
